@@ -1,6 +1,6 @@
 # Python Image Recognition
 
-**Python Image Recognition: Hands-On Data Science Course** from Mammoth Interactive.
+**Python Image Recognition: Hands-On Artificial Intelligence Course** from Mammoth Interactive.
 https://www.bitdegree.org/course/python-image-recognition<br><br>
 
 Contents covered by this course:<br>
